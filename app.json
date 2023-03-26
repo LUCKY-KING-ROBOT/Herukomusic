@@ -1,5 +1,5 @@
 {
-    "name": "RaiChu Music Bot",
+    "name": "heruko music",
     "description": "Telegram bot for Streaming  Music trought the Telegram Group Video Chat, powered by pytgcalls and pyrogram",
     "logo": "https://telegra.ph/file/b581039c9a18d939d19dd.jpg",
     "keywords": [
@@ -8,7 +8,7 @@
         "pyrogram"
     ],
     "website": "https://t.me/BotDuniyaXd",
-    "repository": "https://github.com/AMANTYA1/RaiChuMusic",
+    "repository": "https://github.com/LUCKY-KING-ROBOT/Herukomusic",
     "success_url": "https://t.me/BotDuniyaXd",
     "env": {
         "API_ID": {
