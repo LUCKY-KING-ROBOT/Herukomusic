@@ -7,9 +7,9 @@
         "telegram bot",
         "pyrogram"
     ],
-    "website": "https://t.me/BotDuniyaXd",
+    "website": "https://t.me/WORLD_FRIEND_143",
     "repository": "https://github.com/LUCKY-KING-ROBOT/Herukomusic",
-    "success_url": "https://t.me/BotDuniyaXd",
+    "success_url": "https://t.me/WORLD_FRIEND_143",
     "env": {
         "API_ID": {
             "description": "your API_ID from my.telegram.org",
@@ -56,7 +56,7 @@
         "OWNER_NAME": {
             "description": "fill with your telegram account username without @",
             "required": false,
-            "value": "MeCorw"
+            "value": "SED_BOY_143"
         }
     },
     "addons": [],
